@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac49d7c2-9359-4f57-9374-232c46225b35" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/com/company" />
+  </component>
+  <component name="ProjectId" id="1ZzGjtaoDhG04aeWMpCFfmVXbP6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Automobile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Automobile" />
+      <module name="GenericClasses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.BankAccount" />
+      <module name="GenericClasses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="GenericClasses" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBankAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.TestBankAccount" />
+      <module name="GenericClasses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Automobile" />
+      <item itemvalue="Application.TestBankAccount" />
+      <item itemvalue="Application.BankAccount" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.BankAccount" />
+        <item itemvalue="Application.TestBankAccount" />
+        <item itemvalue="Application.Automobile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac49d7c2-9359-4f57-9374-232c46225b35" name="Default Changelist" comment="" />
+      <created>1585834647422</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585834647422</updated>
+      <workItem from="1585834650688" duration="12135000" />
+      <workItem from="1586473540851" duration="1219000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="864" y="421" key="#com.intellij.ide.util.MemberChooser" timestamp="1586474030860">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="864" y="421" key="#com.intellij.ide.util.MemberChooser/0.0.3440.1440@0.0.3440.1440" timestamp="1586474030860" />
+    <state width="2343" height="315" key="GridCell.Tab.0.bottom" timestamp="1586474765217">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="2343" height="315" key="GridCell.Tab.0.bottom/0.0.3440.1440@0.0.3440.1440" timestamp="1586474765217" />
+    <state width="2343" height="315" key="GridCell.Tab.0.center" timestamp="1586474765217">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="2343" height="315" key="GridCell.Tab.0.center/0.0.3440.1440@0.0.3440.1440" timestamp="1586474765217" />
+    <state width="2343" height="315" key="GridCell.Tab.0.left" timestamp="1586474765216">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="2343" height="315" key="GridCell.Tab.0.left/0.0.3440.1440@0.0.3440.1440" timestamp="1586474765216" />
+    <state width="2343" height="315" key="GridCell.Tab.0.right" timestamp="1586474765217">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="2343" height="315" key="GridCell.Tab.0.right/0.0.3440.1440@0.0.3440.1440" timestamp="1586474765217" />
+    <state width="2343" height="409" key="GridCell.Tab.1.bottom" timestamp="1585854987230">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="2343" height="409" key="GridCell.Tab.1.bottom/0.0.3440.1440@0.0.3440.1440" timestamp="1585854987230" />
+    <state width="2343" height="409" key="GridCell.Tab.1.center" timestamp="1585854987230">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="2343" height="409" key="GridCell.Tab.1.center/0.0.3440.1440@0.0.3440.1440" timestamp="1585854987230" />
+    <state width="2343" height="409" key="GridCell.Tab.1.left" timestamp="1585854987230">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="2343" height="409" key="GridCell.Tab.1.left/0.0.3440.1440@0.0.3440.1440" timestamp="1585854987230" />
+    <state width="2343" height="409" key="GridCell.Tab.1.right" timestamp="1585854987230">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="2343" height="409" key="GridCell.Tab.1.right/0.0.3440.1440@0.0.3440.1440" timestamp="1585854987230" />
+    <state x="965" y="520" key="com.intellij.ide.util.TipDialog" timestamp="1586473541671">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="965" y="520" key="com.intellij.ide.util.TipDialog/0.0.3440.1440@0.0.3440.1440" timestamp="1586473541671" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GenericClasses$Main.ic" NAME="Main Coverage Results" MODIFIED="1586474724291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
